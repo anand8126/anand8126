@@ -5,7 +5,7 @@
 
 <p align="left">  
 
-- 🔭 I’m currently working on **various Projects **
+- 🔭 I’m currently working on **Various Projects**
 
 - 🌱 I’m currently learning **Angular, NodeJS, ExpressJS, MongoDB**
 
