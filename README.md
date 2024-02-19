@@ -6,13 +6,13 @@
 ### <div align="center">I'm Anand Prakash Chaudhary, a full-time full-stack developer 👨‍💻 working office since 2023🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/developeranand1))  
+- 🔭 I’m currently working on various projects  
   
 
 - 🌱 I’m currently learning NodeJS & MongoDB 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MEAN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
