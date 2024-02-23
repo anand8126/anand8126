@@ -3,7 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Anand Prakash Chaudhary, a full-time full-stack developer 👨‍💻 working office since 2023🚀</div>  
+### <div align="center">I'm Anand Prakash Chaudhary,
+<br>
+a full-time full-stack developer 👨‍💻 
+<br>working office since 2023🚀</div>  
   
 
 - 🔭 I’m currently working on various projects  
