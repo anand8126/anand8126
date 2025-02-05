@@ -12,7 +12,7 @@ a full-time full-stack developer 👨‍💻
 - 🔭 I’m currently working on various projects  
   
 
-- 🌱 I’m currently learning NodeJS & MongoDB 
+- 🌱 I’m currently working on Angular, Express JS, NodeJS & MongoDB  
   
 
 - ❓ Ask me about anything related to MEAN stack and related technologies  
